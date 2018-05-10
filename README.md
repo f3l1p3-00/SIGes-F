@@ -1,2 +1,2 @@
 # SIGes-F
-Sistema Integrado de Gestão- Filas
+Sistema Integrado de Gestão de Filas
